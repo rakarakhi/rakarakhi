@@ -1,28 +1,44 @@
+# My Profile
+
+![image](https://user-images.githubusercontent.com/28489203/162609042-de2ee4d0-a7ea-435b-8107-74a5d7a8e92f.png)
+![image](https://user-images.githubusercontent.com/28489203/162609198-31dc61dc-cd3a-47db-8847-655c4118205f.png)
+![image](https://user-images.githubusercontent.com/28489203/162609240-2283f421-4db4-4c90-b17d-1e7959b797f8.png)
+![image](https://user-images.githubusercontent.com/28489203/162609249-a7830faa-e343-4057-90e4-b9fd3f65e52f.png)
+![image](https://user-images.githubusercontent.com/28489203/162609291-92250dcc-36b9-485d-a1b4-3685eeb68acc.png)
+![image](https://user-images.githubusercontent.com/28489203/162609401-b53faed4-0588-4388-a23c-473b0f0e641d.png)
+
+
 Hello Everyone,
 
 I am @rakarakhi
 
-**Professional Summary**
+## Professional Summary
 
 Experienced IT Professional with 17+ years of work experiences in various roles in IT Product and Services Indistries. and exposure to SRE, DevOps, and Cloud (AWS) with expertise in Linux OS, Scripting and Automation, Virtualization, Containerization (Docker and Kubernetes), CI/CD using diverse tools, Application monitoring & Dash boarding, whose experience can be leveraged to achieve the goal of a team and oragnization...
 
-**- My skillset:**
+**LinkedIn Profile:** https://www.linkedin.com/in/rahuldebchakrabartyiitb
 
-  **- SRE & DevOps**
+### My skillset
+
+  - SRE & DevOps
+  
       - Core Principles
       - Differences
       - Roles/Responsibilities
       - Tools
     
-  **- Operating Systems**
+  - Operating Systems
+  
       - Linux
       - Windows
     
-  **- Concept of:**
+  - Concept of:
+  
       - Storage
       - Networking
     
-  **- Virtualization**
+  - Virtualization
+  
       - Virtual PC
       - VMWare Workstation
       - VMWare EXSi
@@ -30,7 +46,8 @@ Experienced IT Professional with 17+ years of work experiences in various roles 
       - Oracle Virtual Box
       - Vagrant
     
-  **- CI/CD**
+  - CI/CD
+  
       - Jenkins
       - AWS CodeStart, CodeCommit, CodePipeLine, CodeDeploy
       - Travis-ci
@@ -38,12 +55,14 @@ Experienced IT Professional with 17+ years of work experiences in various roles 
       - Git/GitLab
       - Git/GitHub - Action and Hooks
     
-  **- IaaC - Infrastructure as a Code**
+  - IaaC - Infrastructure as a Code
+  
       - CloudFormation
       - Terraform
       - Ansible
     
-  **- Containerization**
+  - Containerization
+  
       - Docker & Docker Swarm
       - Kubernetes
       - Dashboard
@@ -55,11 +74,19 @@ Experienced IT Professional with 17+ years of work experiences in various roles 
       - Kubernetes in Cloud: AWS - ECS, EKS, Fargate
       - MiniKube and KubeAdm
     
-  **- Cloud**
+  - Cloud
+  
       - AWS
       - GCP
-    
-  **- Languages**
+  
+  - Security and Vulnerability
+  
+      - WAF
+      - DDoS
+      - SQL Injection Attack
+
+  - Languages
+  
       - Shell Scripting
       - Python Programming
       - YAML
@@ -67,14 +94,16 @@ Experienced IT Professional with 17+ years of work experiences in various roles 
       - JS (Node and React)
       - PowerShell
     
-  **- Packaging**
+  - Packaging
+  
       - InstallShield
-      **- Helm**
+      - Helm
       - Nuget
       - Chocolatey
       - apt, yum, dpkg
     
-**- I am interested in ...**
+- I am interested in...
+
     - Opensource tools/technology
     - Linux
     - Virtualization
@@ -86,7 +115,8 @@ Experienced IT Professional with 17+ years of work experiences in various roles 
     - Cloud Best Practices
     - Conferences, Virtual Events, MeetUps and Podcasts
   
-**- I am currently learning ...**
+- I am currently learning...
+
     - Advance Shell and Python Scripting
     - Docker and Kubernetes
     - AWS, GCP
@@ -103,13 +133,15 @@ Experienced IT Professional with 17+ years of work experiences in various roles 
       - MongoDB
       - TSDB
  
-**- I’m looking to collaborate on ...**
+- I’m looking to collaborate on...
+
     - Kubernetes and Docker
     - System Tools/Utilities
  
-**- 📫 How to reach me ...**
-    - Email: rahuldeb.chakrabarty@gmail.com
-    - LinkedIn: https://www.linkedin.com/in/rahuldebchakrabartyiitb
+- 📫 How to reach me...
+  - Email: rahuldeb.chakrabarty@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/rahuldebchakrabartyiitb
+  - Twitter: rahuldeb_c
 
 <!---
 rakarakhi/rakarakhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
