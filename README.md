@@ -12,9 +12,25 @@ Hello Everyone,
 
 I am @rakarakhi
 
+## Synopsys
+
+IT Infrastructure Professional with 15+ years (Product Development and Services Industry) experienced in DevOps, SRE, SDLC (Agile); Build Management, Source Code Management, DevOps,  Operating System (Linux), Virtualization, Docker and Kubernetes; Cloud Computing, CI/CD, to ensure a reliable and well monitored system which will meet Customer Business Objective.
+
 ## Professional Summary
 
-Experienced IT Professional with 17+ years of work experiences in various roles in IT Product and Services Indistries. and exposure to SRE, DevOps, and Cloud (AWS) with expertise in Linux OS, Scripting and Automation, Virtualization, Containerization (Docker and Kubernetes), CI/CD using diverse tools, Application monitoring & Dash boarding, whose experience can be leveraged to achieve the goal of a team and oragnization...
+IT Professional with 15 years of work experience in various roles in IT, and exposure to Roles: SRE, DevOps, Virtualization, Docker & Kubernetes, Linux, Scripting, and Cloud (AWS) with expertise in,
+•	SRE & DevOps
+•	Linux Operating Systems
+•	Bash, Windows Shell, and Python Scripting
+•	Docker and Kubernetes
+•	Docker Hub, Jfrog Artifactory, and AWS ECR
+•	Version Control: Git, GitHub, GitLab, IBM Tools
+•	CI/CD using tools (GitLab, Jenkins, AWS DevOps)
+•	Application monitoring & Dash-boarding: Prometheus, Grafana & Kibana
+•	Monitoring Tool: Centreon
+•	AWS Public Cloud - Key principles of Cloud Adoption and Usage; hands-on knowledge on AWS Cloud Core features: Compute, Storage, Networking, RDS, Security, Five Principles of Operability
+•	EC2, S3, IAM, ELB, EBS, VPC, Route 53, IAM, Security Group, NACL, RDS, ECR, ECS, EKS, CloudWatch, CloudTrail
+•	Basic Knowledge of IaaC: CloudFormation, Terraform, Ansible (working to gain more knowledge and experience in this area)
 
 **LinkedIn Profile:** https://www.linkedin.com/in/rahuldebchakrabartyiitb
 
@@ -29,13 +45,24 @@ Experienced IT Professional with 17+ years of work experiences in various roles 
     
   - Operating Systems
   
-      - Linux
+      - Linux (Ubuntu, RHEL)
+      - Linux in Windows using WSL2
       - Windows
-    
+
+  - SourceCode Control
+  
+      - Git
+      - GitHub
+      - GitLab
+      - Git CMD (CLI)
+      - Git BASH
+      - Git Desktop
+   
   - Concept of:
   
       - Storage
       - Networking
+      - Databases
     
   - Virtualization
   
@@ -49,7 +76,7 @@ Experienced IT Professional with 17+ years of work experiences in various roles 
   - CI/CD
   
       - Jenkins
-      - AWS CodeStart, CodeCommit, CodePipeLine, CodeDeploy
+      - AWS DevOps: AWS CodeStar, CodeCommit, CodePipeLine, CodeDeploy
       - Travis-ci
       - Circle-ci
       - Git/GitLab
@@ -58,20 +85,30 @@ Experienced IT Professional with 17+ years of work experiences in various roles 
   - IaaC - Infrastructure as a Code
   
       - CloudFormation
-      - Terraform
+      - HashiCorp Tools:
+          - Terraform
+          - Packer
+          - Boundary
+          - Consul
+          - Waypoint
+          - Vagrant
+      
+  - Configuration Management:
+  
       - Ansible
+      - Chef and Puppet
     
   - Containerization
   
       - Docker & Docker Swarm
       - Kubernetes
-      - Dashboard
+      - Dashboarding Tools - Prometheus, PromQL, Grafana, Kibana, Elastic Search DB
       - Tools - Lens
       - Registry - Artifactory, Docker Hub
       - Service Mesh
       - Public and Private Clusters
       - kubectl addons
-      - Kubernetes in Cloud: AWS - ECS, EKS, Fargate
+      - Kubernetes in Cloud: AWS - ECS, EKS, ECR, Fargate
       - MiniKube and KubeAdm
     
   - Cloud
@@ -85,34 +122,35 @@ Experienced IT Professional with 17+ years of work experiences in various roles 
       - DDoS
       - SQL Injection Attack
 
-  - Languages
+  - Programming/Scripting Languages
   
-      - Shell Scripting
+      - Shell (BASH) Scripting
       - Python Programming
+      - PowerShell
       - YAML
       - JSON
       - JS (Node and React)
-      - PowerShell
     
   - Packaging
-  
+ 
       - InstallShield
       - Helm
       - Nuget
       - Chocolatey
-      - apt, yum, dpkg
+      - apt, yum, dpkg, rpm
     
 - I am interested in...
 
-    - Opensource tools/technology
+    - Open Source tools/technology
     - Linux
     - Virtualization
     - Containerization
-    - Micro Service Principles & Design Patterns
-    - Chaos Emhineering
+    - Micro Service Principles, Architecture and, Design Patterns
+    - Chaos Engineering
     - Cloud Computing trends
     - Cloud Migration
-    - Cloud Best Practices
+    - Cloud Best Practices - Security and Migration
+    - NetOps - DevOps Principles application in Network Engineering
     - Conferences, Virtual Events, MeetUps and Podcasts
   
 - I am currently learning...
@@ -120,14 +158,21 @@ Experienced IT Professional with 17+ years of work experiences in various roles 
     - Advance Shell and Python Scripting
     - Docker and Kubernetes
     - AWS, GCP
-    - CI/CD Tools
+    - CI/CD Tools: Jekins, CirCle-CI, GitLab, GitHub Actions
     - AWS Prototype Implementation
     - IaaC
       - CloudFormation
       - Terraform
+    - Configuration Management
       - Ansible
+      - Chef and Puppet (planned next)
     - AMT (Application Monitoring Tools): Prometheus, Grafana, Kibana...
-    - ElasticSearch DB: logstash, DataDog, Dynatrace, ElasticSearch DB, AWS - ELK
+    - ElasticSearch DB: logstash, 
+    - Enterprise Monitoring Tools:
+      - DataDog
+      - Dynatrace
+      - New Relic
+      - Nagios
     - Databases
       - MySQL and SQL Script
       - MongoDB
@@ -137,11 +182,26 @@ Experienced IT Professional with 17+ years of work experiences in various roles 
 
     - Kubernetes and Docker
     - System Tools/Utilities
+    - Infrastructure Automation in AWS using Terraform
+    - Configuration Management using Ansible, Chef and Puppet
+    - Linux Administration, Tips & Tricks and Shell Scripting
+
+- Hobbies...
+
+    - Writing in LinkedIn
+    - Movies and Web Series
+    - YouTube - various channels
+    - Forencis Science and Crime Scene Investigation
+    - Modern Technology (Civil, High Speed Trains, Space Shuttles)
+    - Aeroplane Accident Investigation related documentary
+    - Readings books
+  
  
 - 📫 How to reach me...
-  - Email: rahuldeb.chakrabarty@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/rahuldebchakrabartyiitb
-  - Twitter: rahuldeb_c
+    - Email   : rahuldeb.chakrabarty@gmail.com
+    - LinkedIn: https://www.linkedin.com/in/rahuldebchakrabartyiitb
+    - Twitter : https://twitter.com/Rahuldeb_C
+    - Facebook: https://www.facebook.com/rahuldeb.chakrabarty
 
 <!---
 rakarakhi/rakarakhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
