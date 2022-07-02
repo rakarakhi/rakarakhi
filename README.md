@@ -7,10 +7,14 @@
 ![image](https://user-images.githubusercontent.com/28489203/162609291-92250dcc-36b9-485d-a1b4-3685eeb68acc.png)
 ![image](https://user-images.githubusercontent.com/28489203/162609401-b53faed4-0588-4388-a23c-473b0f0e641d.png)
 
+**Note: Above pictures are taken from Google Search and reused - no copyright violation is intented.**
 
-Hello Everyone,
 
-I am @rakarakhi
+
+**Hello Everyone,**
+
+**I am @rakarakhi**
+
 
 ## Synopsys
 
